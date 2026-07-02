@@ -1,0 +1,21 @@
+# Composer dependencies — rebuild via `composer install`
+/vendor/
+
+# Composer bootstrapper — download separately, not a project dependency
+composer.phar
+
+# Build artifacts
+*.zip
+
+# Secrets / local config — never commit
+keyClaude.txt
+*.key
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/

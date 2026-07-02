@@ -1,0 +1,25 @@
+# Composer bootstrapper — download separately, not a project dependency
+composer.phar
+
+# Composer dependencies — rebuild via `composer install` (already ignored inside ai-chatbox/)
+vendor/
+
+# Build artifacts (packaged plugin zips)
+*.zip
+
+# AI agent tooling (local machine only, not project code)
+.gstack/
+.superpowers/
+.claude/settings.local.json
+
+# Secrets / local config
+*.key
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/

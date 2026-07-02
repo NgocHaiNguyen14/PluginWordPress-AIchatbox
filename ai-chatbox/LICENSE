@@ -1,0 +1,35 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 2, June 1991
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The licenses for most software are designed to take away your
+freedom to share and change it. By contrast, the GNU General Public
+License is intended to guarantee your freedom to share and change
+free software--to make sure the software is free for all its users.
+
+  This General Public License applies to most of the Free Software
+Foundation's software and to any other program whose authors commit
+to using it. You can use it for your programs, too.
+
+  This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+
+  This plugin is licensed under the GPL, version 2 or (at your option)
+any later version. See <https://www.gnu.org/licenses/gpl-2.0.html> for
+the full license text.
+
+  This dependency `smalot/pdfparser` (used for PDF parsing in the
+knowledge base) is licensed under LGPL-3.0, which is compatible with
+GPL-2.0-or-later distribution.
